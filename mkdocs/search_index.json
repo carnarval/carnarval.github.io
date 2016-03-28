@@ -47,13 +47,43 @@
         }, 
         {
             "location": "/gameplay/", 
-            "text": "Gameplay and Mechanics\n#", 
+            "text": "Gameplay and Mechanics\n#\n\n\nGameplay\n#\n\n\nGame Progression\n#\n\n\nThere is two types of progression in the game, one is the \ncompetitive: the ranking, and the another one is the casual/individual: the level and achievements. \nWe will describe this two types below and how the'll affect the gameplay.\n\n\nRanking\n#\n\n\n    Worms's task\n\n\n\n\nLevel \n Achievements\n#\n\n\nLevel\n#\n\n\nAs many other games level is the basic casual and individual progression.\nAs you play you gain \nexperience\n and also \nlevel\n. As you reach new level\nyou unlock new items, basically \nrollers\n and also \nweapons\n.   \n\n\nThis table describe the level and weapons that you unlock     \n\n\n\n\n\n\n\n\nLevel\n\n\nWeapon\n\n\nRoller\n\n\n\n\n\n\n\n\n\n\n1\n\n\nmetal\n\n\nis the law\n\n\n\n\n\n\n\n\nAchievements\n#\n\n\nAchievements are self compensations for things that you do on your own.\n\n\nList of achievements    \n\n\n\n\n\n\n\n\nAchievements\n\n\n\n\n\n\n\n\n\n\nKill 10 people", 
             "title": "Gameplay and Mechanics"
         }, 
         {
             "location": "/gameplay/#gameplay-and-mechanics", 
             "text": "", 
             "title": "Gameplay and Mechanics"
+        }, 
+        {
+            "location": "/gameplay/#gameplay", 
+            "text": "", 
+            "title": "Gameplay"
+        }, 
+        {
+            "location": "/gameplay/#game-progression", 
+            "text": "There is two types of progression in the game, one is the \ncompetitive: the ranking, and the another one is the casual/individual: the level and achievements. \nWe will describe this two types below and how the'll affect the gameplay.", 
+            "title": "Game Progression"
+        }, 
+        {
+            "location": "/gameplay/#ranking", 
+            "text": "Worms's task", 
+            "title": "Ranking"
+        }, 
+        {
+            "location": "/gameplay/#level-achievements", 
+            "text": "", 
+            "title": "Level &amp; Achievements"
+        }, 
+        {
+            "location": "/gameplay/#level", 
+            "text": "As many other games level is the basic casual and individual progression.\nAs you play you gain  experience  and also  level . As you reach new level\nyou unlock new items, basically  rollers  and also  weapons .     This table describe the level and weapons that you unlock          Level  Weapon  Roller      1  metal  is the law", 
+            "title": "Level"
+        }, 
+        {
+            "location": "/gameplay/#achievements", 
+            "text": "Achievements are self compensations for things that you do on your own.  List of achievements         Achievements      Kill 10 people", 
+            "title": "Achievements"
         }
     ]
 }
